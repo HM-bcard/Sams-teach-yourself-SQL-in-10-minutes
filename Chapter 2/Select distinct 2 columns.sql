@@ -1,0 +1,1 @@
+SELECT  dost_id,prod_cena FROM produkty;
